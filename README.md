@@ -27,7 +27,7 @@ Un bot Python simple qui récupère automatiquement certaines informations d’u
 ## Installation
 
 ```bash
-git clone https://github.com/votre-utilisateur/smart-scraper-bot.git
+git clone https://github.com/raniaXdaoudi/smart-scraper-bot.git
 cd smart-scraper-bot
 ```
 
